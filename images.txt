@@ -1,4 +1,9 @@
-crpi-8mxxyq37t3w9t2kj.cn-hangzhou.personal.cr.aliyuncs.com/stonedtx/stonedt_yuqing:1.0.10
+kuaifan/php:swoole-8.0.rc21
+nginx:alpine
+redis:alpine
+mariadb:10.7.3
+
+#crpi-8mxxyq37t3w9t2kj.cn-hangzhou.personal.cr.aliyuncs.com/stonedtx/stonedt_yuqing:1.0.10
 #learnedmachine/speakr:latest
 #nacos/nacos-server:v2.1.0
 #nacos/nacos-server
@@ -158,7 +163,7 @@ crpi-8mxxyq37t3w9t2kj.cn-hangzhou.personal.cr.aliyuncs.com/stonedtx/stonedt_yuqi
 #jenkins
 #jenkinsci/blueocean:1.24.7
 #ingress-nginx
-registry.k8s.io/ingress-nginx/controller:v1.9.1
+#registry.k8s.io/ingress-nginx/controller:v1.9.1
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407
 #docker.io/kiwigrid/k8s-sidecar:1.27.4
 #docker.io/jenkins/jenkins:2.452.2-jdk17
