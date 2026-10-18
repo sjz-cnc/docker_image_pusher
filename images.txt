@@ -80,11 +80,11 @@ docker.io/twalter/smee-client:1.0.2
 docker.io/bats/bats:1.11.0
 jenkins/inbound-agent:3256.v88a_f6e922152-1
 docker.io/jenkins/jenkins:2.346.3-jdk8
-jenkinsci/blueocean
+#jenkinsci/blueocean
 jenkins/jenkins:2.369
-jenkinsci/blueocean:1.25.8
+#jenkinsci/blueocean:1.25.8
 quay.io/cephcsi/cephcsi:v3.11.0
-jenkinsci/blueocean:1.24.8
+#jenkinsci/blueocean:1.24.8
 registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 docker.io/kiwigrid/k8s-sidecar:1.27.4
 jenkins/jnlp-agent-maven:latest
@@ -123,7 +123,7 @@ debian
 m.daocloud.io/registry.k8s.io/metrics-server/metrics-server:v0.6.3
 mysql:5.7
 mysql:8.4
-jenkinsci/blueocean:1.24.7
+#jenkinsci/blueocean:1.24.7
 rook-ceph v1.13.3
 rook/ceph:v1.13.3
 gcr.io/k8s-staging-sig-storage/objectstorage-sidecar/objectstorage-sidecar:v20230130-v0.1.0-24-gc0cf995
@@ -163,13 +163,13 @@ goharbor/harbor-registryctl:v2.11.0
 #测试
 busybox
 jenkins
-jenkinsci/blueocean:1.24.7
+#jenkinsci/blueocean:1.24.7
 ingress-nginx
 registry.k8s.io/ingress-nginx/controller:v1.9.1
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407
 docker.io/kiwigrid/k8s-sidecar:1.27.4
 docker.io/jenkins/jenkins:2.452.2-jdk17
 jenkinsci/blueocean:latest
-jenkinsci/blueocean:1.25.7
+#jenkinsci/blueocean:1.25.7
 docker.io/kiwigrid/k8s-sidecar:1.27.4
 alpine
